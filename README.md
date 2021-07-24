@@ -1,6 +1,6 @@
 # Funky-Friday-Auto-Player-Script.lua
 
-loadstring(game:HttpGet('https://controlc.com/0910be9e'))()
+loadstring(game:HttpGet("https://controlc.com/0910be9e"))()
 
 --İF THİS NOT WORK CLİCK THİS LİNK AND PASTE SCRİPT https://controlc.com/0910be9e
 
