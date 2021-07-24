@@ -7,3 +7,5 @@ loadstring(game:HttpGet("https://controlc.com/0910be9e"))()
 --Good Games
 
 --Thanks for use my script
+
+--pass = autoplayerboi
