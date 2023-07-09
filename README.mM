@@ -1,4 +1,4 @@
-# Funky-Friday-Auto-Player-Script.lua
+#Friday-Auto-Player-Script.lua
 
 loadstring(game:HttpGet("https://controlc.com/0910be9e"))() -- okay this not work then
 
